@@ -1,1 +1,2 @@
-Fourth in firstbranch not master
+Fourth in firstbranch not master.
+Modified in firstbranch after merge.
